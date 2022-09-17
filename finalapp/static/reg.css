@@ -1,0 +1,30 @@
+*
+{
+padding: 0;
+margin: 0;
+box-sizing:border-box;
+}
+body
+{
+background-image:url(img/reg.jpg);
+background-size:cover;
+background-position:center;
+
+font-family: sans-serif;
+}
+
+.container
+{
+border:10px solid gray;
+max_width:700px;
+width:600px;
+height:25vh;
+align-items:center;
+justify-content:center;
+position:absolute;
+right:0;
+left:0;
+top:0;
+bottom:0;
+margin:auto;
+}
